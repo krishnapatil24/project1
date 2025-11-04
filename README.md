@@ -1,2 +1,3 @@
 # project1
-1st
+thi sis my firstproject
+author krishna
